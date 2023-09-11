@@ -17,9 +17,8 @@
 <p>Se extrajeron los valores últimos de "loss", "accuracy" de train y "accuracy" de test.</p>
 <p>Se realizó el plot de los resultados.</p>
 <p>Una vez más se pide disculpas dado que la matriz de confusión no tiene etiquetas.</p>
-<p>Se calcularos métricas que ayudan a entender de mejor forma la precisión del modelo:
-  "accuracy": Cuantas veces acertó nuestro modelo.
-  "precision": De las veces en que predijo una clase, cuantas fueron correctas.
-  "recall": Mide cuántas veces el modelo identificó correctamente todos los casos relevantes de una clase.
-  "f1": Es la media armónica de 'precision' y 'recall'. Nos ayuda a evaluar la eficacia general de nuestro modelo de clasificación.
-</p>
+<p>Se calcularos métricas que ayudan a entender de mejor forma la precisión del modelo:</p>
+<p>‌     ‌"accuracy": Cuantas veces acertó nuestro modelo.</p>
+<p>‌     ‌"precision": De las veces en que predijo una clase, cuantas fueron correctas.</p>
+<p>‌     ‌"recall": Mide cuántas veces el modelo identificó correctamente todos los casos relevantes de una clase.</p>
+<p>‌     ‌"f1": Es la media armónica de 'precision' y 'recall'. Nos ayuda a evaluar la eficacia general de nuestro modelo de clasificación.</p>
