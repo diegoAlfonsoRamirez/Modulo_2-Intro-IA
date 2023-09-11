@@ -28,8 +28,8 @@ X_test_normalized = scaler.transform(X_test)
 
 # Define the neural network model using TensorFlow
 model = models.Sequential([
-    layers.Dense(64, activation='relu', input_shape=(X_train_normalized.shape[1],)),
-    layers.Dense(32, activation='relu'),
+    layers.Dense(64, activation='sigmoid', input_shape=(X_train_normalized.shape[1],)),
+    layers.Dense(32, activation='sigmoid'),
     layers.Dense(7, activation='softmax')
 ])
 
